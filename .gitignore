@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+"00-Introducción.ipynb"
+01-Python.ipynb
+__pycache__/
+assets/
+env/
